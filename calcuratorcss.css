@@ -61,3 +61,8 @@ button{       /* styling add all buttons*/
 .equalbtn{   /*styling only Equal Button*/
     background-color: #fb7414;
 }
+p{
+    text-align: center;
+    color: azure;
+    
+}
