@@ -12,6 +12,11 @@ body{          /* styling add body tags  */
     align-items: center;
     background: linear-gradient(45deg,#0a0a0a, #3a4452);
 }
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
 
 .calculator{    /*Styling add all Calculator functionality*/
     border: 1px solid #717377;
